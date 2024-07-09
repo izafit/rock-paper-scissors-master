@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/izafit/rock-paper-scissors-master.git)
-- Live Site URL: [Add live site URL here](https://rock-paper-scissors-izafit.app)
+- Solution URL: [github](https://github.com/izafit/rock-paper-scissors-master.git)
+- Live Site URL: [https://rock-paper-scissors-izafit.app](https://rock-paper-scissors-izafit.app)
 
 ## My process
 
