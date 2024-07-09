@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/izafit/rock-paper-scissors-master.git)
-- Live Site URL: [https://rock-paper-scissors-izafit.app](https://rock-paper-scissors-izafit.app)
+- Live Site URL: [https://izafit.github.io](https://izafit.github.io/rock-paper-scissors-master/)
 
 ## My process
 
