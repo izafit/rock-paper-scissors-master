@@ -56,4 +56,4 @@ Working on this project, I gained a deeper understanding of:
 ## Author
 
 - Website - coming soon...
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/izafit)
+- Frontend Mentor - [@izafit](https://www.frontendmentor.io/profile/izafit)
