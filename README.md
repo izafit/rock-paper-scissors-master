@@ -52,6 +52,7 @@ Working on this project, I gained a deeper understanding of:
 - Using `localStorage` to persist data across page reloads
 - Handling user interactions and updating the DOM dynamically
 - Using CSS transitions and animations to enhance user experience
+- Using the spread operator (...) to efficiently manage arrays and objects in JavaScript
 
 ## Author
 
